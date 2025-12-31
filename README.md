@@ -1,9 +1,4 @@
 ## Hi thereee 👋
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
-</p>
 ### Skills:
 
 <p align="center">

@@ -1,4 +1,4 @@
-## Hi thereee 👋
+## Hey!! 👋
 
 ### Skills:
 

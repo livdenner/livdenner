@@ -16,8 +16,8 @@
  
 ---
 <div align="center">
-  <img src="https://github-readme-stats-ebon-ten-19.vercel.app/api?username=livdenner&show_icons=true&theme=tokyonight" width="40%"/>
-  <img src="https://github-readme-stats-ebon-ten-19.vercel.app/api/top-langs/?username=livdenner&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-stats-ebon-ten-19.vercel.app/api?username=livdenner&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-ebon-ten-19.vercel.app/api/top-langs/?username=livdenner&layout=compact&theme=tokyonight" width="48%"/>
 </div>
 
 ---

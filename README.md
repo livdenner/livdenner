@@ -1,8 +1,11 @@
 ![headerGitHub](https://github.com/user-attachments/assets/99eab26c-1ffd-4b6d-8ef7-ac25e13d315f)
 
+<p align="center">
+Hey! I'm a fullstack developer
+</p>
 
-
-### Skills:
+---
+<br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -15,8 +18,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
  </p>
- 
+<br><br>
+
 ---
+
 <div align="center">
   <img src="https://github-readme-stats-ebon-ten-19.vercel.app/api?username=livdenner&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-stats-ebon-ten-19.vercel.app/api/top-langs/?username=livdenner&layout=compact&theme=tokyonight" width="48%"/>
